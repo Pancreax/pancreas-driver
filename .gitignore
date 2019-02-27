@@ -7,9 +7,10 @@
 *.o
 *.so
 *.ko
-*.com
+*.cmd
 *.symvers
 *.order
+*.mod.c
 
 # Packages #
 ############

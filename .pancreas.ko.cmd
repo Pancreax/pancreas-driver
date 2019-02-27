@@ -1,1 +1,0 @@
-cmd_/home/guilherme/eletronica/driver/pancreas/pancreas.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/guilherme/eletronica/driver/pancreas/pancreas.ko /home/guilherme/eletronica/driver/pancreas/pancreas.o /home/guilherme/eletronica/driver/pancreas/pancreas.mod.o ;  true
